@@ -6,6 +6,7 @@
 - 📂 **project_name**
   - 📄 **app.py**
   - 📄 **constants.py**
+  -  📄 **chatbot.py**
   - 📂 **db/**
     - *(database-related files)*
   - 📂 **docs/**
